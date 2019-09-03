@@ -1,0 +1,21 @@
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+    background-color: yellow;
+}
+
+.card {
+    padding: 10px;
+}
+
+.forgot {
+    cursor: pointer;
+}
+
+.sign-up {
+    cursor: pointer;
+    margin-top: 10px;
+}
